@@ -1,6 +1,6 @@
 "use strict";
 
-// Create a function addFive without any arguments. 
+// Create a function addFive without any arguments.
 // This function adds 5 to the sum variable, but its returned value is undefined.
 
 // Setup
@@ -11,7 +11,7 @@ function addThree() {
 }
 
 // Only change code below this line
-function addFive (){
+function addFive() {
   sum = sum + 5;
 }
 // Only change code above this line

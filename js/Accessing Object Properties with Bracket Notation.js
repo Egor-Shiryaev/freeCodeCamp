@@ -8,5 +8,9 @@ const testObj = {
 };
 
 // Only change code below this line
-const entreeValue = testObj["an entree"]; // Change this line
-const drinkValue = testObj["the drink"]; // Change this line
+const sentreeValue = testObj["an entree"]; // Change this line
+const sdrinkValue = testObj["the drink"]; // Change this line
+// ertzxczxc
+
+console.log("1");
+console.log("2");
